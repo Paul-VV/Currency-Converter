@@ -15,4 +15,4 @@ Prerequisites:
 - Installing all three project files (the test currency script is optional, if testing is involved)
 
 Copyright Statement:
-I don't have a preference to what licensing this project gets, however, if you'd like to contribute or have any questions you can reach out to me at
+I don't have a preference to what licensing this project gets, however, if you'd like to contribute or have any questions you can reach out to me at **skinnerwelms@gmail.com**
