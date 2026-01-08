@@ -1,6 +1,8 @@
 # Currency-Converter
 An e-cornell certificate project containing a program that converts currency with a given API key for converted concurrent exchange rates.
 
+All specifications/pseudocode are oulined by e-cornell
+
 This tool involves three files: 
 
 1. currency.py = the module that includes backend functionality
