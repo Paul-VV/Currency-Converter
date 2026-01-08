@@ -1,5 +1,5 @@
 # Currency-Converter
-An e-cornell project containing a program that converts currency with a given API key for converted concurrent exchange rates.
+An e-cornell certificate project containing a program that converts currency with a given API key for converted concurrent exchange rates.
 
 This tool involves three files: 
 
