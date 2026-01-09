@@ -1,7 +1,7 @@
 # Currency-Converter
 An e-cornell certificate project containing a program that converts currency with a given API key for converted concurrent exchange rates.
 
-Most specifications/pseudocode are oulined by e-cornell
+Most specifications/pseudocode are outlined by e-cornell
 
 This tool involves three files: 
 
