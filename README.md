@@ -7,7 +7,7 @@ This tool involves three files:
 
 1. currency.py = the module that includes backend functionality
 2. testcurrency.py = the test cases for the currency functions
-3. exchangeit.py = the interactive script that allows the conversions between two currencies, mainly for non-programmers
+3. exchangeit.py = the interactive script that prompts the conversions between two currencies, mainly for non-programmers
 
 Prerequisites:
 
